@@ -1,2 +1,2 @@
 # cordel
-  A cordel course project
+  A cordel project for the course
